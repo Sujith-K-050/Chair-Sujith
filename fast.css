@@ -1,0 +1,41 @@
+.center-container{
+    padding : 50px;
+    width: 1000px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+.right-img{
+    width: 100%;
+    border-radius: 40px;
+    padding : 20px;
+}
+
+.bbt{
+    border-radius: 30px !important;
+    font-weight: 600;
+    padding : 10px 10px ; 
+}
+
+.left-section{
+    width : 100% ;
+}
+body{
+    font-family: inter,"Roboto";
+}
+.svg-style{
+    width: 20%;
+    stroke : green;
+}
+.green-box-para{
+    font-style: italic;
+    font-weight: 400;
+}
+
+.border-edit{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.svg-style-1{
+    width: 10%;
+    stroke : green;
+}
